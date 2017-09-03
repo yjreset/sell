@@ -106,7 +106,6 @@
           this.menuScroll = new BScroll(this.$refs.menuWrapper, {
             click: true
           });
-
           this.foodsScroll = new BScroll(this.$refs.foodsWrapper, {
             click: true,
             probeType: 3
